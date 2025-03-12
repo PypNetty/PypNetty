@@ -38,4 +38,5 @@ Je partage mes expériences et connaissances techniques sur mon blog :
 [![Blog](https://img.shields.io/badge/-PypTechLife-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.pyptechlife.xyz/)
 
 <!-- Stats GitHub -->
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=PypNetty&show_icons=true&theme=radical)
+
