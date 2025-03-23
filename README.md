@@ -2,10 +2,14 @@
 
 ## 👨‍💻 Qui suis-je ?
 
-Technicien Système & DevOps en reconversion, actuellement en Bachelor **Administrateur d’Infrastructure Sécurisée** (AIS).  
-Mon objectif : intégrer une entreprise en alternance pour progresser sur les enjeux Cloud, SRE et GitOps tout en apportant rigueur, curiosité et impact.
+Technicien Système & DevOps en reconversion, actuellement en double parcours :
+- 🎓 Bachelor **Administrateur Système DevOps (ASD)**  
+- 🎓 Titre professionnel **Administrateur d’Infrastructure Sécurisée (AIS)** (en alternance dès septembre 2025)
+
+Mon objectif : intégrer une entreprise en alternance pour progresser sur les enjeux Cloud, SRE et GitOps, tout en apportant rigueur, curiosité et impact.
 
 👉 Statut RQTH | Autodidacte passionné | Culture Linux & homelab
+
 
 ---
 
