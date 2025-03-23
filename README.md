@@ -1,42 +1,68 @@
-# Bonjour, je suis PypNetty 👋
+# 👋 Bonjour, je suis Henryck alias **PypNetty**
 
-## 👨‍💻 À propos de moi
-Admin Sys & DevOps en devenir, actuellement en reconversion professionnelle dans l'IT avec un statut RQTH.
-Mon parcours : DWWM → TSSR → Bachelor DevOps (en cours)
+## 👨‍💻 Qui suis-je ?
 
-## 🛠️ Stack technique
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Cloud](https://img.shields.io/badge/-Cloud-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+Technicien Système & DevOps en reconversion, actuellement en Bachelor **Administrateur d’Infrastructure Sécurisée** (AIS).  
+Mon objectif : intégrer une entreprise en alternance pour progresser sur les enjeux Cloud, SRE et GitOps tout en apportant rigueur, curiosité et impact.
 
-## 🚀 Mes projets
-- Développement de scripts d'automatisation
-- Infrastructure as Code
-- CI/CD pipelines
-- Solutions Cloud
+👉 Statut RQTH | Autodidacte passionné | Culture Linux & homelab
 
-## 🌱 En cours d'apprentissage
-- Kubernetes
-- Terraform
-- AWS/Azure
-- Ansible
+---
 
-## 🤝 WorksAble_Community
-Fondateur de **WorksAble_Community**, un serveur Discord dédié aux personnes en reconversion dans l'IT, avec une attention particulière pour les parcours RQTH.
+## 🧰 Stack actuelle
+
+![Linux](https://img.shields.io/badge/Linux-Debian-informational?style=flat&logo=linux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=flat&logo=proxmox&logoColor=white)
+![Talos](https://img.shields.io/badge/Talos-007ACC?style=flat&logo=kubernetes&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-F89820?style=flat&logo=k3s&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+---
+
+## 🚀 Projets DevOps
+
+- 🧱 **Homelab Cloud-Native** : cluster Kubernetes Talos sur Proxmox, GitOps first, CI/CD GitHub Actions
+- 🔐 **Réseau maillé** : Headscale (WireGuard) pour accès distribué sécurisé à l’infra
+- 📊 **Monitoring** : Prometheus + Grafana, logs centralisés en local
+- 🔁 **Infrastructure as Code** : Terraform (cloud-init & Proxmox)
+- 📝 **Documentation & retour d’expérience** sur [mon blog](https://blog.pyptechlife.xyz/)
+
+---
+
+## 📚 En cours d’apprentissage
+
+- Cloud AWS (préparation certif Cloud Practitioner)
+- Kubernetes (CKA – Certified Kubernetes Administrator)
+- Sécurité des systèmes Linux & réseaux (AIS)
+- GitOps avancé / DevSecOps / Cloud agnostique
+
+---
+
+## 🫂 WorksAble_Community
+
+🎯 Fondateur de **WorksAble**, une communauté Discord d’entraide pour les personnes en reconversion IT (avec focus RQTH).
 
 [![Discord](https://img.shields.io/badge/-Rejoindre_le_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CNkYYspv)
 
-### Notre mission
-Créer un espace d'entraide inclusif où chacun peut trouver soutien, ressources et conseils pour réussir sa reconversion dans les métiers de l'informatique.
+---
 
-## ✍️ Blog
-Je partage mes expériences et connaissances techniques sur mon blog :
+## ✍️ Blog technique
+
+Je documente mes expérimentations DevOps, ma montée en compétences et mon homelab CNCF-compatible sur :
 
 [![Blog](https://img.shields.io/badge/-PypTechLife-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.pyptechlife.xyz/)
 
-<!-- Stats GitHub -->
+---
+
+## 📊 Stats GitHub
+
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=PypNetty&show_icons=true&theme=radical)
 
+---
+
+> 💬 *Disponible pour alternance DevOps/AIS – 1 semaine école / 3 semaines entreprise – à partir de septembre 2025*
