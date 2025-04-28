@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Qui suis-je ?
 
-Technicien Système & DevOps en reconversion, actuellement en double parcours :
+Administrateur Système & DevOps en reconversion, actuellement en :
 - 🎓 Bachelor **Administrateur Système DevOps (ASD)**  
-- 🎓 Titre professionnel **Administrateur d’Infrastructure Sécurisée (AIS)** (en alternance dès septembre 2025)
+
 
 Mon objectif : intégrer une entreprise en alternance pour progresser sur les enjeux Cloud, SRE et GitOps, tout en apportant rigueur, curiosité et impact.
 
@@ -40,9 +40,8 @@ Mon objectif : intégrer une entreprise en alternance pour progresser sur les en
 
 ## 📚 En cours d’apprentissage
 
-- Cloud AWS (préparation certif Cloud Practitioner)
 - Kubernetes (CKA – Certified Kubernetes Administrator)
-- Sécurité des systèmes Linux & réseaux (AIS)
+- Sécurité des systèmes Linux & réseaux 
 - GitOps avancé / DevSecOps / Cloud agnostique
 
 ---
@@ -57,7 +56,7 @@ Mon objectif : intégrer une entreprise en alternance pour progresser sur les en
 
 ## ✍️ Blog technique
 
-Je documente mes expérimentations DevOps, ma montée en compétences et mon homelab CNCF-compatible sur :
+Je documente mes expérimentations DevOps, ma montée en compétences et mon homelab sur :
 
 [![Blog](https://img.shields.io/badge/-PypTechLife-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.pyptechlife.xyz/)
 
