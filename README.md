@@ -1,71 +1,86 @@
-# 👋 Bonjour, je suis Henryck alias **PypNetty**
+# 👋 Salut, moi c’est Henryck aka **PypNetty**
 
-## 👨‍💻 Qui suis-je ?
+## 🧠 Profil
 
-Administrateur Système & DevOps en reconversion, actuellement en :
-- 🎓 Bachelor **Administrateur Système DevOps (ASD)**  
+🎓 Actuellement en formation **Administrateur d’Infrastructures Sécurisées (AIS)**.  
+Je me spécialise en **Linux, réseau, sécurité, haute dispo et cloud-native**.
 
+🌍 Objectif : devenir un profil polyvalent **infra + DevSecOps**, avec une forte culture de l’expérimentation, du partage et de l’impact.
 
-Mon objectif : intégrer une entreprise en alternance pour progresser sur les enjeux Cloud, SRE et GitOps, tout en apportant rigueur, curiosité et impact.
+🧠 Statut RQTH | Autodidacte passionné | Culture Linux & homelab | Esprit de transmission
 
-👉 Statut RQTH | Autodidacte passionné | Culture Linux & homelab
+---
 
+## 🚀 Mon projet actuel : **Fyndra**
+
+Fyndra, c’est **une nouvelle génération de plateforme de validation de compétences IT**.
+
+🔹 Pas de CV. Pas de bullshit.  
+🔹 Tu progresses dans des environnements réels (VM, containers, clusters), adaptés à ton niveau.  
+🔹 Ton IA personnelle t’accompagne, t’évalue, te challenge.  
+🔹 Tu obtiens **des preuves concrètes** de tes compétences.
+
+📌 Objectif : redonner du pouvoir aux candidats, valoriser la pratique, et fluidifier la montée en compétences.
+
+🔗 [https://fyndra.me](https://fyndra.me)
+
+📢 Build in public → [@fyndraHQ](https://twitter.com/useFyndra)
 
 ---
 
 ## 🧰 Stack actuelle
 
-![Linux](https://img.shields.io/badge/Linux-Debian-informational?style=flat&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Linux-Debian-informational?style=flat&logo=linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=flat&logo=proxmox&logoColor=white)
 ![Talos](https://img.shields.io/badge/Talos-007ACC?style=flat&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-F89820?style=flat&logo=k3s&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-## 🚀 Projets DevOps
+## 🔧 En ce moment je bosse sur...
 
-- 🧱 **Homelab Cloud-Native** : cluster Kubernetes Talos sur Proxmox, GitOps first, CI/CD GitHub Actions
-- 🔐 **Réseau maillé** : Headscale (WireGuard) pour accès distribué sécurisé à l’infra
-- 📊 **Monitoring** : Prometheus + Grafana, logs centralisés en local
-- 🔁 **Infrastructure as Code** : Terraform (cloud-init & Proxmox)
-- 📝 **Documentation & retour d’expérience** sur [mon blog](https://blog.pyptechlife.xyz/)
-
----
-
-## 📚 En cours d’apprentissage
-
-- Kubernetes (CKA – Certified Kubernetes Administrator)
-- Sécurité des systèmes Linux & réseaux 
-- GitOps avancé / DevSecOps / Cloud agnostique
+- 🏗️ **Infra sécurisée** pour les labs Fyndra (isolation, monitoring, snapshots auto)
+- 🤖 **IA embarquée** pour guider l’utilisateur selon son niveau
+- 📈 **Évaluation par la pratique**, quiz adaptatif, VM à la volée
+- 📚 **Contenus et scénarios** pour la progression en DevOps, Linux, Réseau, Sécurité
 
 ---
 
-## 🫂 WorksAble_Community
+## 📚 En formation / apprentissage
 
-🎯 Fondateur de **WorksAble**, une communauté Discord d’entraide pour les personnes en reconversion IT (avec focus RQTH).
-
-[![Discord](https://img.shields.io/badge/-Rejoindre_le_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CNkYYspv)
+- 🔐 Sécurité des systèmes et réseaux
+- 🛡️ Hardening Linux, accès VPN, surveillance
+- 🧠 Méthodo DevSecOps, CI/CD GitOps, supervision (Prometheus)
+- 🎓 Préparation aux certifications : CKA, CKS, Terraform
 
 ---
 
 ## ✍️ Blog technique
 
-Je documente mes expérimentations DevOps, ma montée en compétences et mon homelab sur :
+Je documente mon apprentissage, mes tests et les choix techniques de Fyndra ici :
 
 [![Blog](https://img.shields.io/badge/-PypTechLife-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.pyptechlife.xyz/)
 
 ---
 
-## 📊 Stats GitHub
+## 🫂 WorksAble – Communauté IT inclusive
+
+Fondateur de **WorksAble**, un Discord d’entraide pour les personnes en reconversion ou avec un statut RQTH.
+
+[![Discord](https://img.shields.io/badge/-Rejoindre_le_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CNkYYspv)
+
+---
+
+## 📊 GitHub Stats
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=PypNetty&show_icons=true&theme=radical)
 
 ---
 
-> 💬 *Disponible pour alternance DevOps/AIS – 1 semaine école / 3 semaines entreprise – à partir de septembre 2025*
+> 💬 *Je construis Fyndra en public.  
+> Tu veux suivre l’aventure ou contribuer ? Bienvenue !*
